@@ -1,0 +1,47 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<link href="../../css/page.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="../../scripts/ufo.js"></script> 
+</head>
+
+<body>
+<table class="inner_content">
+  <tr>
+    <td><span class="sub_head">
+    
+    <!-- start video title -->
+    
+    Jonathan Grover - Chimes
+    
+    <!-- end video title -->
+    
+    </span><span class="body_copy"><br /><br />
+    
+    <!-- start video player -->
+    
+     	<div class="vcontainer">
+        <span id="player1">
+        	<script type="text/javascript">
+			var F2 = {	movie:"http://jonathangrover.com/flash/flvplayer.swf",width:"640",height:"480",majorversion:"7",build:"0",wmode:"transparent",bgcolor:"#ffffff",flashvars:"file=http://jonathangrover.com/selected_work/chimes/video.flv&image=http://jonathangrover.com/flash/&logo=http://jonathangrover.com/flash/vid-logo-sm.png&shownavigation=false&showdigits=true&autostart=true&repeat=false&showfsbutton=false&showicons=true&backcolor=0xffffff&lightcolor=0xffffff&frontcolor=0x666666" };
+			UFO.create(	F2, "player1");
+			</script>
+       	</span>
+        </div>
+         
+    <!-- end video player -->
+     
+     <br /><br />
+     
+     <!-- start video details -->
+     
+     Chimes, 2009; Interactive sound sculpture; 200 touch sensitive acrylic rods, wood, steel, nylon ropes, pulleys, electronics; 12' x 12' x 12'; Suspended in the air, tiny translucent rods bend and sway in the light. Contact with the body causes the rod to illuminate and play sounds of water drops. As the body interacts with the sculpture a storm begins to build and fall based on the amount of movement by the participant.
+
+<!-- end video details -->
+
+    </span></td>
+  </tr>
+</table>
+</body>
+
+</html>
